@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="title_activity_sequence_page">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="add_title">Добавление списка таймеров</string>
+    <string name="name_sequence">Название списка</string>
+    <string name="rgb">Цвет в rgb</string>
+    <string name="add">Добавить</string>
+</resources>
