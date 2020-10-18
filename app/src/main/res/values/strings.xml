@@ -7,4 +7,6 @@
     <string name="name_sequence">Название списка</string>
     <string name="rgb">Цвет в rgb</string>
     <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Изменить</string>
 </resources>
