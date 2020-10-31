@@ -1,14 +1,14 @@
-package com.example.timer;
-
-import android.os.Bundle;
+package com.example.timer.SettingPage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class SequenceActivity extends AppCompatActivity {
+import android.os.Bundle;
+
+public class SettingActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sequence);
+        setContentView(R.layout.activity_setting);
     }
 }
